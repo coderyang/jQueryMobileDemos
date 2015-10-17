@@ -1,0 +1,639 @@
+[
+  {
+    "caption": "JQM Demo: button-markup",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/button-markup/"
+      }
+  },
+  {
+    "caption": "JQM Demo: button",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/button/"
+      }
+  },
+  {
+    "caption": "JQM Demo: checkboxradio-checkbox",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/checkboxradio-checkbox/"
+      }
+  },
+  {
+    "caption": "JQM Demo: checkboxradio-radio",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/checkboxradio-radio/"
+      }
+  },
+  {
+    "caption": "JQM Demo: collapsible",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/collapsible/"
+      }
+  },
+  {
+    "caption": "JQM Demo: collapsible-dynamic",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/collapsible-dynamic/"
+      }
+  },
+  {
+    "caption": "JQM Demo: collapsibleset",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/collapsibleset/"
+      }
+  },
+  {
+    "caption": "JQM Demo: controlgroup",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/controlgroup/"
+      }
+  },
+  {
+    "caption": "JQM Demo: controlgroup-dynamic",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/controlgroup-dynamic/"
+      }
+  },
+  {
+    "caption": "JQM Demo: datepicker",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/datepicker/"
+      }
+  },
+  {
+    "caption": "JQM Demo: swipe-list",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/swipe-list/"
+      }
+  },
+  {
+    "caption": "JQM Demo: swipe-page",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/swipe-page/"
+      }
+  },
+  {
+    "caption": "JQM Demo: filterable",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/filterable/"
+      }
+  },
+  {
+    "caption": "JQM Demo: flipswitch",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/flipswitch/"
+      }
+  },
+  {
+    "caption": "JQM Demo: forms",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/forms/"
+      }
+  },
+  {
+    "caption": "JQM Demo: forms-label-hidden-accessible",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/forms-label-hidden-accessible/"
+      }
+  },
+  {
+    "caption": "JQM Demo: forms-field-contain",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/forms-field-contain/"
+      }
+  },
+  {
+    "caption": "JQM Demo: forms-disabled",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/forms-disabled/"
+      }
+  },
+  {
+    "caption": "JQM Demo: forms-gallery",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/forms-gallery/"
+      }
+  },
+  {
+    "caption": "JQM Demo: grids",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/grids/"
+      }
+  },
+  {
+    "caption": "JQM Demo: grids-buttons",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/grids-buttons/"
+      }
+  },
+  {
+    "caption": "JQM Demo: grids-custom-responsive",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/grids-custom-responsive/"
+      }
+  },
+  {
+    "caption": "JQM Demo: body-bar-classes",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/body-bar-classes/"
+      }
+  },
+  {
+    "caption": "JQM Demo: icons",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/icons/"
+      }
+  },
+  {
+    "caption": "JQM Demo: icons-grunticon",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/icons-grunticon/"
+      }
+  },
+  {
+    "caption": "JQM Demo: listview",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/listview/"
+      }
+  },
+  {
+    "caption": "JQM Demo: listview-autocomplete",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/listview-autocomplete/"
+      }
+  },
+  {
+    "caption": "JQM Demo: listview-autocomplete-remote",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/listview-autocomplete-remote/"
+      }
+  },
+  {
+    "caption": "JQM Demo: listview-autodividers-linkbar",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/listview-autodividers-linkbar/"
+      }
+  },
+  {
+    "caption": "JQM Demo: listview-autodividers-selector",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/listview-autodividers-selector/"
+      }
+  },
+  {
+    "caption": "JQM Demo: listview-nested-lists",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/listview-nested-lists/"
+      }
+  },
+  {
+    "caption": "JQM Demo: listview-collapsible-item-flat",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/listview-collapsible-item-flat/"
+      }
+  },
+  {
+    "caption": "JQM Demo: listview-collapsible-item-indented",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/listview-collapsible-item-indented/"
+      }
+  },
+  {
+    "caption": "JQM Demo: listview-grid",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/listview-grid/"
+      }
+  },
+  {
+    "caption": "JQM Demo: loader",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/loader/"
+      }
+  },
+  {
+    "caption": "JQM Demo: navbar",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/navbar/"
+      }
+  },
+  {
+    "caption": "JQM Demo: navigation",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/navigation/"
+      }
+  },
+  {
+    "caption": "JQM Demo: navigation-linking-pages",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/navigation-linking-pages/"
+      }
+  },
+  {
+    "caption": "JQM Demo: navigation-hash-processing",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/navigation-hash-processing/"
+      }
+  },
+  {
+    "caption": "JQM Demo: page-events",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/page-events/"
+      }
+  },
+  {
+    "caption": "JQM Demo: pages",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/pages/"
+      }
+  },
+  {
+    "caption": "JQM Demo: pages-single-page",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/pages-single-page/"
+      }
+  },
+  {
+    "caption": "JQM Demo: pages-multi-page",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/pages-multi-page/"
+      }
+  },
+  {
+    "caption": "JQM Demo: pages-dialog",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/pages-dialog/"
+      }
+  },
+  {
+    "caption": "JQM Demo: panel",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/panel/"
+      }
+  },
+  {
+    "caption": "JQM Demo: panel-external",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/panel-external/"
+      }
+  },
+  {
+    "caption": "JQM Demo: panel-fixed",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/panel-fixed/"
+      }
+  },
+  {
+    "caption": "JQM Demo: panel-responsive",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/panel-responsive/"
+      }
+  },
+  {
+    "caption": "JQM Demo: panel-styling",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/panel-styling/"
+      }
+  },
+  {
+    "caption": "JQM Demo: panel-swipe-open",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/panel-swipe-open/"
+      }
+  },
+  {
+    "caption": "JQM Demo: panel-external-internal",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/panel-external-internal/"
+      }
+  },
+  {
+    "caption": "JQM Demo: popup",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/popup/"
+      }
+  },
+  {
+    "caption": "JQM Demo: popup-alignment",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/popup-alignment/"
+      }
+  },
+  {
+    "caption": "JQM Demo: popup-arrow-size",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/popup-arrow-size/"
+      }
+  },
+  {
+    "caption": "JQM Demo: popup-dynamic",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/popup-dynamic/"
+      }
+  },
+  {
+    "caption": "JQM Demo: popup-iframe",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/popup-iframe/"
+      }
+  },
+  {
+    "caption": "JQM Demo: popup-image-scaling",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/popup-image-scaling/"
+      }
+  },
+  {
+    "caption": "JQM Demo: popup-outside-multipage",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/popup-outside-multipage/"
+      }
+  },
+  {
+    "caption": "JQM Demo: rangeslider",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/rangeslider/"
+      }
+  },
+  {
+    "caption": "JQM Demo: rwd",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/rwd/"
+      }
+  },
+  {
+    "caption": "JQM Demo: selectmenu",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/selectmenu/"
+      }
+  },
+  {
+    "caption": "JQM Demo: selectmenu-custom",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/selectmenu-custom/"
+      }
+  },
+  {
+    "caption": "JQM Demo: selectmenu-custom-filter",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/selectmenu-custom-filter/"
+      }
+  },
+  {
+    "caption": "JQM Demo: slider",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/slider/"
+      }
+  },
+  {
+    "caption": "JQM Demo: slider-flipswitch",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/slider-flipswitch/"
+      }
+  },
+  {
+    "caption": "JQM Demo: slider-tooltip",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/slider-tooltip/"
+      }
+  },
+  {
+    "caption": "JQM Demo: table-column-toggle",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/table-column-toggle/"
+      }
+  },
+  {
+    "caption": "JQM Demo: table-column-toggle-example",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/table-column-toggle-example/"
+      }
+  },
+  {
+    "caption": "JQM Demo: table-column-toggle-heading-groups",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/table-column-toggle-heading-groups/"
+      }
+  },
+  {
+    "caption": "JQM Demo: table-column-toggle-options",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/table-column-toggle-options/"
+      }
+  },
+  {
+    "caption": "JQM Demo: table-reflow",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/table-reflow/"
+      }
+  },
+  {
+    "caption": "JQM Demo: table-reflow-heading-groups",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/table-reflow-heading-groups/"
+      }
+  },
+  {
+    "caption": "JQM Demo: table-reflow-stripes-strokes",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/table-reflow-stripes-strokes/"
+      }
+  },
+  {
+    "caption": "JQM Demo: table-reflow-styling",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/table-reflow-styling/"
+      }
+  },
+  {
+    "caption": "JQM Demo: tabs",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/tabs/"
+      }
+  },
+  {
+    "caption": "JQM Demo: textinput",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/textinput/"
+      }
+  },
+  {
+    "caption": "JQM Demo: theme-default",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/theme-default/"
+      }
+  },
+  {
+    "caption": "JQM Demo: theme-classic",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/theme-classic/"
+      }
+  },
+  {
+    "caption": "JQM Demo: toolbar",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/toolbar/"
+      }
+  },
+  {
+    "caption": "JQM Demo: toolbar-dynamic",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/toolbar-dynamic/"
+      }
+  },
+  {
+    "caption": "JQM Demo: toolbar-external",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/toolbar-external/"
+      }
+  },
+  {
+    "caption": "JQM Demo: toolbar-fixed",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/toolbar-fixed/"
+      }
+  },
+  {
+    "caption": "JQM Demo: toolbar-fixed-fullscreen",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/toolbar-fixed-fullscreen/"
+      }
+  },
+  {
+    "caption": "JQM Demo: toolbar-fixed-external",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/toolbar-fixed-external/"
+      }
+  },
+  {
+    "caption": "JQM Demo: toolbar-fixed-persistent",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/toolbar-fixed-persistent/"
+      }
+  },
+  {
+    "caption": "JQM Demo: toolbar-fixed-persistent-optimized",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/toolbar-fixed-persistent-optimized/"
+      }
+  },
+  {
+    "caption": "JQM Demo: toolbar-fixed-forms",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/toolbar-fixed-forms/"
+      }
+  },
+  {
+    "caption": "JQM Demo: transitions",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/transitions/"
+      }
+  },
+  {
+    "caption": "JQM Demo: backbone-requirejs",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/backbone-requirejs/"
+      }
+  },
+  {
+    "caption": "JQM Demo: map-geolocation",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/map-geolocation/"
+      }
+  },
+  {
+    "caption": "JQM Demo: map-list-toggle",
+    "command": "open_browser",
+    "args": {
+      "url": "http://demos.jquerymobile.com/1.4.5/map-list-toggle/"
+      }
+  }
+]
